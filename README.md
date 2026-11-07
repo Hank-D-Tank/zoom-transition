@@ -32,6 +32,6 @@ Open `index.html` in Chrome, Edge or Safari. Other browsers just get a normal pa
 
 ## Credits
 
-- Inspired by [Cyd Stumpel's portfolio](https://cydstumpel.nl), Awwwards Site of the Day. The design and the code here are my own.
+- Inspired by [Cyd Stumpel's portfolio](https://cydstumpel.nl), Awwwards Site of the Day. This is a different design and none of her code is copied.
 - Videos from [Pexels](https://www.pexels.com) under the Pexels License, streamed from their CDN.
 - Font: [Inter Tight](https://fonts.google.com/specimen/Inter+Tight) (SIL OFL).
