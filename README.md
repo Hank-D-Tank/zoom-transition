@@ -3,7 +3,7 @@
 Click a card and its video zooms up into the hero of a completely new page. No libraries and no JavaScript animation. It's real HTML pages and the browser's View Transitions API, turned on by one rule in CSS.
 
 **Live demo:** https://dimaac.com/projects/zoom-transition
-**Tutorial:** https://www.youtube.com/@HankTheTankCoding
+**Tutorial:** https://youtu.be/9I_MGRMn_Z8
 
 ## How it works
 
