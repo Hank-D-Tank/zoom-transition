@@ -27,6 +27,7 @@ video.currentTime = (Date.now() / 1000) % video.duration;
 - `tangerine.html`, `cobalt.html`, `marigold.html`, `violet.html`, `crimson.html`, `sky.html`: one page per film
 - `style.css`: the layout and every transition rule
 - `script.js`: the video sync
+- `posters/`: a still of each film, shown while its video loads
 
 Open `index.html` in Chrome, Edge or Safari. Other browsers just get a normal page change, so nothing breaks.
 
